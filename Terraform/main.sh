@@ -1,3 +1,5 @@
+#!/bin/bash
+
 //Ubuntu/Debian
 
 //Add the HashiCorp GPG key.
